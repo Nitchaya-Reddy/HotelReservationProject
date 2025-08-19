@@ -1,0 +1,1 @@
+package util; import java.util.Date; public class DateUtils { public static boolean isPastDate(Date date) { return date.before(new Date()); } }

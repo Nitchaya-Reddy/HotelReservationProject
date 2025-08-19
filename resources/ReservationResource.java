@@ -1,0 +1,1 @@
+package resources; public class ReservationResource { public void getReservations() { System.out.println("Getting reservations..."); } }

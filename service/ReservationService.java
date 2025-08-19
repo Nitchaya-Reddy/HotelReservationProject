@@ -1,0 +1,1 @@
+package service; public class ReservationService { public void bookRoom() { System.out.println("Booking room..."); } }

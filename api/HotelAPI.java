@@ -1,0 +1,1 @@
+package api; public class HotelAPI { public void fetchRooms() { System.out.println("Fetching rooms..."); } }
